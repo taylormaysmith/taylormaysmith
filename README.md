@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taylormaysmith
-- 👀 I’m interested in increasing access to education, technology and resources for those incarcerated.
+- 👀 I’m interested in increasing access to education and resources through technology for those incarcerated.
 - 📫 How to reach me - taymsmi@gmail.com
 
 <!---
